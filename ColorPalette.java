@@ -1,8 +1,3 @@
-// Grace Biemans
-// geb965
-// 11279874
-// Assignment 1
-
 package com.example.assignment1;
 
 import javafx.scene.paint.Color;
